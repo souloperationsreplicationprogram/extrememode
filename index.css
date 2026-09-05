@@ -61,16 +61,14 @@ main input {
 }
 
 input#subtitle {
-  font-size: clamp(1.2rem, 4vw, 2.25rem);
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  transform: scaleY(1.125);
   color: #FFFFFF;
-  margin-top: 25rem;
+  margin-top: 14rem;
 }
 
 .yellow-sans {
-  font-family: "Determination Sans";
+  font-family: "Determination Mono";
 }
 
 .green-sans {
