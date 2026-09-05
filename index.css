@@ -71,9 +71,14 @@ input#subtitle {
 font-family: "Determination Sans", sans-serif;
 }
 
-.green-sans {
+.yellow-sans {
+font-family: "Determination Sans", sans-serif;
+color: #32cd32;
+}
+
+.hidden-text {
   font-family: "Determination Sans";
-  color: #32cd32;
+  color: #000000;
 }
 
 input#date {
